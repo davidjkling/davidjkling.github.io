@@ -1,4 +1,4 @@
-# Repo for Personal GitHub page
+# Repo for Personal GitHub hosted page
 
 Just a super simple single-page responsive template built for personal sites and portfolios. Feedback, bug reports, and comments are not only welcome, but strongly encouraged.
 
